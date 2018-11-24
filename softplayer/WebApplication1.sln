@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftPlayer", "WebApplication1\SoftPlayer.csproj", "{AEA776A0-AD44-4C2A-A7A6-FEDFD5DF796B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testes", "..\Testes\Testes.csproj", "{FC8CCF16-5304-4AB7-B09A-D4DCC7ADA2C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEA776A0-AD44-4C2A-A7A6-FEDFD5DF796B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA776A0-AD44-4C2A-A7A6-FEDFD5DF796B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA776A0-AD44-4C2A-A7A6-FEDFD5DF796B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA776A0-AD44-4C2A-A7A6-FEDFD5DF796B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC8CCF16-5304-4AB7-B09A-D4DCC7ADA2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8CCF16-5304-4AB7-B09A-D4DCC7ADA2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8CCF16-5304-4AB7-B09A-D4DCC7ADA2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8CCF16-5304-4AB7-B09A-D4DCC7ADA2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DFD3B82-254C-4D10-B556-17741FE47D97}
+	EndGlobalSection
+EndGlobal
