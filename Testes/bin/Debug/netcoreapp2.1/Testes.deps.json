@@ -11,8 +11,7 @@
           "Microsoft.NET.Test.Sdk": "15.9.0",
           "SoftPlayer": "1.0.0",
           "xunit": "2.4.0",
-          "xunit.runner.visualstudio": "2.4.0",
-          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.1.1.0"
+          "xunit.runner.visualstudio": "2.4.0"
         },
         "runtime": {
           "Testes.dll": {}
@@ -1059,14 +1058,6 @@
         "runtime": {
           "SoftPlayer.dll": {}
         }
-      },
-      "Microsoft.AspNetCore.Mvc.ViewFeatures/2.1.1.0": {
-        "runtime": {
-          "Microsoft.AspNetCore.Mvc.ViewFeatures.dll": {
-            "assemblyVersion": "2.1.1.0",
-            "fileVersion": "2.1.1.18157"
-          }
-        }
       }
     }
   },
@@ -1610,11 +1601,6 @@
     },
     "SoftPlayer/1.0.0": {
       "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.AspNetCore.Mvc.ViewFeatures/2.1.1.0": {
-      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

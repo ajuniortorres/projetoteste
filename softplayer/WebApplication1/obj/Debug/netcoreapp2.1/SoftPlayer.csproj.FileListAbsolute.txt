@@ -12,3 +12,17 @@ C:\Users\Junior\Desktop\projetos\softplayer\WebApplication1\obj\Debug\netcoreapp
 C:\Users\Junior\Desktop\projetos\softplayer\WebApplication1\obj\Debug\netcoreapp2.1\SoftPlayer.RazorTargetAssemblyInfo.cache
 C:\Users\Junior\Desktop\projetos\softplayer\WebApplication1\obj\Debug\netcoreapp2.1\SoftPlayer.dll
 C:\Users\Junior\Desktop\projetos\softplayer\WebApplication1\obj\Debug\netcoreapp2.1\SoftPlayer.pdb
+C:\Users\Junior\Desktop\projetos\GITHUB\projetoteste\softplayer\WebApplication1\bin\Debug\netcoreapp2.1\SoftPlayer.deps.json
+C:\Users\Junior\Desktop\projetos\GITHUB\projetoteste\softplayer\WebApplication1\bin\Debug\netcoreapp2.1\SoftPlayer.runtimeconfig.json
+C:\Users\Junior\Desktop\projetos\GITHUB\projetoteste\softplayer\WebApplication1\bin\Debug\netcoreapp2.1\SoftPlayer.runtimeconfig.dev.json
+C:\Users\Junior\Desktop\projetos\GITHUB\projetoteste\softplayer\WebApplication1\bin\Debug\netcoreapp2.1\SoftPlayer.dll
+C:\Users\Junior\Desktop\projetos\GITHUB\projetoteste\softplayer\WebApplication1\bin\Debug\netcoreapp2.1\SoftPlayer.pdb
+C:\Users\Junior\Desktop\projetos\GITHUB\projetoteste\softplayer\WebApplication1\obj\Debug\netcoreapp2.1\SoftPlayer.csprojAssemblyReference.cache
+C:\Users\Junior\Desktop\projetos\GITHUB\projetoteste\softplayer\WebApplication1\obj\Debug\netcoreapp2.1\SoftPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Desktop\projetos\GITHUB\projetoteste\softplayer\WebApplication1\obj\Debug\netcoreapp2.1\SoftPlayer.RazorAssemblyInfo.cache
+C:\Users\Junior\Desktop\projetos\GITHUB\projetoteste\softplayer\WebApplication1\obj\Debug\netcoreapp2.1\SoftPlayer.RazorAssemblyInfo.cs
+C:\Users\Junior\Desktop\projetos\GITHUB\projetoteste\softplayer\WebApplication1\obj\Debug\netcoreapp2.1\SoftPlayer.AssemblyInfoInputs.cache
+C:\Users\Junior\Desktop\projetos\GITHUB\projetoteste\softplayer\WebApplication1\obj\Debug\netcoreapp2.1\SoftPlayer.AssemblyInfo.cs
+C:\Users\Junior\Desktop\projetos\GITHUB\projetoteste\softplayer\WebApplication1\obj\Debug\netcoreapp2.1\SoftPlayer.RazorTargetAssemblyInfo.cache
+C:\Users\Junior\Desktop\projetos\GITHUB\projetoteste\softplayer\WebApplication1\obj\Debug\netcoreapp2.1\SoftPlayer.dll
+C:\Users\Junior\Desktop\projetos\GITHUB\projetoteste\softplayer\WebApplication1\obj\Debug\netcoreapp2.1\SoftPlayer.pdb

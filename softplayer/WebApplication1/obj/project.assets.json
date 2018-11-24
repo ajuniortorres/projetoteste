@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Junior\\Desktop\\projetos\\softplayer\\WebApplication1\\SoftPlayer.csproj",
+      "projectUniqueName": "C:\\Users\\Junior\\Desktop\\projetos\\GITHUB\\projetoteste\\softplayer\\WebApplication1\\SoftPlayer.csproj",
       "projectName": "SoftPlayer",
-      "projectPath": "C:\\Users\\Junior\\Desktop\\projetos\\softplayer\\WebApplication1\\SoftPlayer.csproj",
+      "projectPath": "C:\\Users\\Junior\\Desktop\\projetos\\GITHUB\\projetoteste\\softplayer\\WebApplication1\\SoftPlayer.csproj",
       "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Junior\\Desktop\\projetos\\softplayer\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\Junior\\Desktop\\projetos\\GITHUB\\projetoteste\\softplayer\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

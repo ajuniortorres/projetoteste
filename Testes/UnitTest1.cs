@@ -1,7 +1,5 @@
-using System;
 using Xunit;
 using SoftPlayer.Controllers;
-using Microsoft.AspNetCore.Mvc;
 
 namespace Testes
 {
@@ -11,7 +9,7 @@ namespace Testes
         public void Testar()
         {
             HomeController controller = new HomeController();
-            string result = controller.Calculajuros("100", "5");
+            string result = controller.calculajuros("100", "5");
 
             Assert.Equal("105,10", result);
         }
@@ -20,9 +18,19 @@ namespace Testes
         public void TestarErro()
         {
             HomeController controller = new HomeController();
-            string result = controller.Calculajuros("ASD", "ASD");
+            string result = controller.calculajuros("ASD", "ASD");
 
             Assert.Equal("erro", result);
+        }
+
+        [Fact]
+        public void TestarURL()
+        {
+            HomeController controller = new HomeController();
+            string result = controller.showmethecode();
+
+            Assert.Equal("https://github.com/ajuniortorres/projetoteste",
+                result);
         }
     }
 }

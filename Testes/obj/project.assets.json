@@ -5879,11 +5879,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Junior\\Desktop\\projetos\\Testes\\Testes.csproj",
+      "projectUniqueName": "C:\\Users\\Junior\\Desktop\\projetos\\GITHUB\\projetoteste\\Testes\\Testes.csproj",
       "projectName": "Testes",
-      "projectPath": "C:\\Users\\Junior\\Desktop\\projetos\\Testes\\Testes.csproj",
+      "projectPath": "C:\\Users\\Junior\\Desktop\\projetos\\GITHUB\\projetoteste\\Testes\\Testes.csproj",
       "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Junior\\Desktop\\projetos\\Testes\\obj\\",
+      "outputPath": "C:\\Users\\Junior\\Desktop\\projetos\\GITHUB\\projetoteste\\Testes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5902,8 +5902,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Junior\\Desktop\\projetos\\softplayer\\WebApplication1\\SoftPlayer.csproj": {
-              "projectPath": "C:\\Users\\Junior\\Desktop\\projetos\\softplayer\\WebApplication1\\SoftPlayer.csproj"
+            "C:\\Users\\Junior\\Desktop\\projetos\\GITHUB\\projetoteste\\softplayer\\WebApplication1\\SoftPlayer.csproj": {
+              "projectPath": "C:\\Users\\Junior\\Desktop\\projetos\\GITHUB\\projetoteste\\softplayer\\WebApplication1\\SoftPlayer.csproj"
             }
           }
         }

@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
 namespace SoftPlayer.Controllers
@@ -17,7 +14,13 @@ namespace SoftPlayer.Controllers
         }
 
         [HttpGet]
-        public string Calculajuros(
+        public string showmethecode()
+        {
+            return "https://github.com/ajuniortorres/projetoteste";
+        }
+
+        [HttpGet]
+        public string calculajuros(
             string valorinicial, string meses)
         {
             string retorno = "";
@@ -42,7 +45,7 @@ namespace SoftPlayer.Controllers
             return retorno;
         }
 
-        public decimal TruncateFunction(decimal number, int digits)
+        private decimal TruncateFunction(decimal number, int digits)
         {
             decimal stepper = (decimal)(Math.Pow(10.0, (double)digits));
             int temp = (int)(stepper * number);
